@@ -1,0 +1,7 @@
+{
+    "name": "framecreative/post-type-archive-pages",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
